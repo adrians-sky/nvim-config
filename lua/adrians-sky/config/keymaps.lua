@@ -6,3 +6,5 @@ vim.api.nvim_set_keymap('n', '<A-l>', '<C-W>l', { noremap = true, silent = true 
 vim.api.nvim_set_keymap('n', '<Leader>f', ':Telescope find_files<CR>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<Leader>rs', ':resize ', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<Leader>e', ':Ex<CR>', { noremap = true, silent = true })
+
+vim.cmd(":tnoremap <Esc> <C-\\><C-n>")

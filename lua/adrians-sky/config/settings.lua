@@ -8,3 +8,5 @@ vim.opt.expandtab = false
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.cmd('let g:python_recommended_style = 0')
+
+vim.opt.termguicolors = true
