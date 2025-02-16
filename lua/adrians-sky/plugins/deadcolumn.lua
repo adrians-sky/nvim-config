@@ -1,3 +1,6 @@
 return {
-	{ 'Bekaboo/deadcolumn.nvim' }
+	{ 
+		'Bekaboo/deadcolumn.nvim',
+		opts = { modes = { "i", "n", "R" } }
+	}
 }
