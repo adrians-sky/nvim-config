@@ -2,6 +2,8 @@
 
 All credit goes to the creators.
 
+[ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline)
+
 [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim)
 
 [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
