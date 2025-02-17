@@ -6,6 +6,8 @@ All credit goes to the creators.
 
 [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 
+[nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+
 [rose-pine/neovim](https://github.com/rose-pine/neovim)
 
 [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
