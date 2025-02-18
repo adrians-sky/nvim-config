@@ -13,3 +13,4 @@ vim.cmd('set colorcolumn=80')
 vim.opt.termguicolors = true
 
 vim.opt.wrap = false
+vim.opt.fillchars = { eob = ' ' }

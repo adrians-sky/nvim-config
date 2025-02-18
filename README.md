@@ -14,4 +14,6 @@ All credit goes to the creators.
 
 [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
 
+[startup-nvim/startup.nvim](https://github.com/max397574/startup.nvim)
+
 [nvim-telescope/telecope.nvim](https://github.com/nvim-telescope/telescope.nvim)
