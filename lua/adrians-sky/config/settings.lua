@@ -1,5 +1,7 @@
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.opt.wrap = true
+vim.opt.linebreak = true
 
 vim.opt.splitright = true
 vim.opt.splitbelow = true
@@ -12,5 +14,4 @@ vim.cmd('let g:python_recommended_style = 0')
 vim.cmd('set colorcolumn=80')
 vim.opt.termguicolors = true
 
-vim.opt.wrap = false
 vim.opt.fillchars = { eob = ' ' }
