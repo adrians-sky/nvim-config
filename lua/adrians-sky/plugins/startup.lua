@@ -59,7 +59,7 @@ return {
 			},
 			options = {
 				disable_statuslines = true,
-				paddings = { 18, 0, 1 },
+				paddings = { 13, 0, 1 },
 			},
 			parts = { "title", "name", "clock" },
 		})
